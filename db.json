@@ -1,0 +1,19 @@
+{
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "bio": "Web Developer and Tech Enthusiast",
+        "picture": "https://randomuser.me/api/portraits/women/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Mark Smith",
+        "email": "mark@example.com",
+        "bio": "Loves coding and traveling",
+        "picture": "https://randomuser.me/api/portraits/men/2.jpg"
+      }
+    ]
+  }
+  
